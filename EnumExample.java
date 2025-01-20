@@ -1,7 +1,7 @@
 enum DayOfWeek{
     SUNDAY,MONDAY,TUESDAY,THURSADY,FRIDAY,SATURDAY
 }
-//samir
+
 public class EnumExample {
     public static void main(String[] args) {
         DayOfWeek today=DayOfWeek.MONDAY;
